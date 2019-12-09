@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/practice_react_sample_todo_basic/static/css/main.fd0e6774.chunk.css",
+    "main.js": "/practice_react_sample_todo_basic/static/js/main.b19a72e2.chunk.js",
+    "main.js.map": "/practice_react_sample_todo_basic/static/js/main.b19a72e2.chunk.js.map",
+    "runtime-main.js": "/practice_react_sample_todo_basic/static/js/runtime-main.d6781d3b.js",
+    "runtime-main.js.map": "/practice_react_sample_todo_basic/static/js/runtime-main.d6781d3b.js.map",
+    "static/js/2.4a240699.chunk.js": "/practice_react_sample_todo_basic/static/js/2.4a240699.chunk.js",
+    "static/js/2.4a240699.chunk.js.map": "/practice_react_sample_todo_basic/static/js/2.4a240699.chunk.js.map",
+    "index.html": "/practice_react_sample_todo_basic/index.html",
+    "precache-manifest.642426998f246fc91d170461d2adffbf.js": "/practice_react_sample_todo_basic/precache-manifest.642426998f246fc91d170461d2adffbf.js",
+    "service-worker.js": "/practice_react_sample_todo_basic/service-worker.js",
+    "static/css/main.fd0e6774.chunk.css.map": "/practice_react_sample_todo_basic/static/css/main.fd0e6774.chunk.css.map",
+    "static/js/2.4a240699.chunk.js.LICENSE": "/practice_react_sample_todo_basic/static/js/2.4a240699.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6781d3b.js",
+    "static/js/2.4a240699.chunk.js",
+    "static/css/main.fd0e6774.chunk.css",
+    "static/js/main.b19a72e2.chunk.js"
+  ]
+}
